@@ -8,8 +8,10 @@
 
 img {
   padding: var(--spacing);
+
   background-color: var(--base);
   filter: blur(var(--blur));
+
 }
 
 .h1 {
@@ -38,6 +40,7 @@ input {
 }
 
 a {
+  
   color: white;
   text-decoration: none;
 }
